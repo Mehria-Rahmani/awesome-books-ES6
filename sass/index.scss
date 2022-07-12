@@ -15,8 +15,8 @@ body {
   flex-direction: column;
   align-items: center;
   overflow-y: scroll;
-  background-color: white;
-  color: black;
+  background-color: #055;
+  color: white;
 }
 
 /* Header Section */
@@ -198,14 +198,16 @@ footer {
   position: fixed;
   bottom: 0;
   text-align: center;
-}
-footer a {
-  text-decoration: none;
-  color: white;
-}
-footer img {
-  width: 1rem;
-  color: white;
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  img {
+    width: 1rem;
+    color: white;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -220,5 +222,3 @@ footer img {
     margin-top: 1rem;
   }
 }
-
-/*# sourceMappingURL=index.css.map */
