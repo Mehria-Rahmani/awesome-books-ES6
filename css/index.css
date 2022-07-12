@@ -8,7 +8,7 @@
 
 html {
   scroll-behavior: smooth;
-}
+} 
 
 body {
   display: flex;
@@ -222,3 +222,4 @@ footer img {
     margin-top: 1rem;
   }
 }
+
