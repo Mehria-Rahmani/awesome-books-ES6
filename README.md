@@ -1,56 +1,32 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Awesome-books-ES6
 
-# Project Name
-
-> Description the project.
-
+Based on the construction of my first porject with JavaScript objects for Microverse Curriculum Awesome books, I will organize the files in modules.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Visual Studio COde and GitHub.
+- HTML, CSS and JavaScript.
+- Linters for HTML, CSS and JavaScript.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+In this project, I will restructure my Awesome books app code. The goal is to make it more organized by using modules. I will also practice the ES6 syntax that I have learned.
 
+## Live Demo
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+[Awesome_Books_ES6](https://franclobo.github.io/Awesome-books-ES6/)</br>
+![Awsome-list](https://user-images.githubusercontent.com/58642949/169573245-1dff9511-9b51-4523-94f1-1b33be904173.jpg)
 
 
 ## Authors
 
-👤 **Author1**
+## 👤 Francisco Borja
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@franclobo](https://github.com/franclobo)
 
-👤 **Author2**
+- Twitter: [@pancho2788](https://twitter.com/Pancho2788)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Francisco Borja](https://www.linkedin.com/in/francisco-borja-lobato/)
 
 ## 🤝 Contributing
 
@@ -64,9 +40,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse curriculum.
+- My code partners and code reviewers.
 
 ## 📝 License
 
