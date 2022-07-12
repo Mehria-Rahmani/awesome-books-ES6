@@ -12,7 +12,7 @@
 - javascript
 
 ## Website Mockup 📱 💻 🖥️
-![app_screenshot](https://user-images.githubusercontent.com/98527559/175322596-92ab549d-5707-4a1f-89e8-628af494958d.png)
+![src](https://user-images.githubusercontent.com/101576088/178433371-0f133d18-6bfe-4fc0-92a8-63e9f1edda07.PNG)
 
 ## Screenshots 📸
 Screenshots can be found in the repository.
