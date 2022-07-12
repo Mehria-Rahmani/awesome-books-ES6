@@ -1,35 +1,24 @@
 {
   "name": "awesome-books-es6",
   "version": "1.0.0",
-  "description": "",
+  "description": "Based on the construction of my first porject with JavaScript objects for Microverse Curriculum Awesome books, I will organize the files in modules.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "linter": "eslint . --fix; stylelint \"**/*.scss\" --fix"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mavericks-db/awesome-books-ES6.git"
+    "url": "git+https://github.com/franclobo/Awesome-books-ES6.git"
   },
-  "author": "Mavericks Balitaan",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mavericks-db/awesome-books-ES6/issues"
+    "url": "https://github.com/franclobo/Awesome-books-ES6/issues"
   },
-  "homepage": "https://github.com/mavericks-db/awesome-books-ES6#readme",
+  "homepage": "https://github.com/franclobo/Awesome-books-ES6#readme",
   "dependencies": {
-    "@lhci/cli": "^0.7.2",
-    "sass": "^1.50.1"
-  },
-  "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.26.0",
-    "hint": "^6.1.11",
-    "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^21.0.0",
-    "stylelint-csstree-validator": "^1.9.0",
-    "stylelint-scss": "^3.21.0"
+    "full-icu": "^1.4.0",
+    "luxon": "^2.3.2"
   }
 }

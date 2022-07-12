@@ -1,43 +1,38 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Awesome-books-ES6
 
-# Awesome Books ES6
-
-> This is an educational project to make a simple website that displays a list of books and allows you to add and remove books from that list. The goal is to make it more organized by using modules and practice the ES6 syntax.
-
+Based on the construction of my first porject with JavaScript objects for Microverse Curriculum Awesome books, I will organize the files in modules.
 
 ## Built With
 
-- HTML
-- css
-- javascript
-
-## Website Mockup 📱 💻 🖥️
-![src](https://user-images.githubusercontent.com/101576088/178433371-0f133d18-6bfe-4fc0-92a8-63e9f1edda07.PNG)
-
-## Screenshots 📸
-Screenshots can be found in the repository.
-
-## Live Demo 🔗
-
-Check out the live demo [here](https://mehria-rahmani.github.io/awesome-books-ES6/)👈
+- Visual Studio COde and GitHub.
+- HTML, CSS and JavaScript.
+- Linters for HTML, CSS and JavaScript.
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+In this project, I will restructure my Awesome books app code. The goal is to make it more organized by using modules. I will also practice the ES6 syntax that I have learned.
 
-### Prerequisites
+## Live Demo
 
-- [x] A web browser like Google Chrome
-- [x] A code editor like Visual Studio Code with Git and Node.
-
+[Awesome_Books_ES6](https://franclobo.github.io/Awesome-books-ES6/)</br>
+![Awsome-list](https://user-images.githubusercontent.com/58642949/169573245-1dff9511-9b51-4523-94f1-1b33be904173.jpg)
 
 
 ## Authors
 
-**Mehria-Rahmani***
-- Github: [@Merhia-Rahmani](https://github.com/Mehria-Rahmani)
-- Twitter: [@MehriaRahmani](https://twitter.com/MehriaRahmani?t=QwKwWXTVBZthv4sUrOXtfQ&s=08)
-- LinkedIn: [@mehria-rahmani](https://www.linkedin.com/in/mehria-rahmani-379211222) 
+## 👤 Francisco Borja
+
+- GitHub: [@franclobo](https://github.com/franclobo)
+
+- Twitter: [@pancho2788](https://twitter.com/Pancho2788)
+
+- LinkedIn: [Francisco Borja](https://www.linkedin.com/in/francisco-borja-lobato/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -45,9 +40,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- [Microverse](https://www.microverse.org/)
-- Code Reviewers
-- Coding Partners
+- Microverse curriculum.
+- My code partners and code reviewers.
 
 ## 📝 License
 
