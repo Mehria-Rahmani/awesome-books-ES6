@@ -1,3 +1,5 @@
+/* eslint-disable no-use-before-define */
+/* eslint-disable max-classes-per-file */
 import startTime from './modules/clock.js';
 import {
   books, addNew, contact, titulo, autor,
